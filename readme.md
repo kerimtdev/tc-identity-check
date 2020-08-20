@@ -3,7 +3,7 @@
 
 
 ### Gereksinimler: 
-  - [Soap Client](https://www.npmjs.com/package/soap)
+  - [Soap - A SOAP client and server for node.js.](https://www.npmjs.com/package/soap)
 
 
 ### Kullanım:
